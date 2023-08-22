@@ -7,4 +7,4 @@
 * git commit - индексация изменений
 
 ## Ветки
-* git branch branch_name – воздание ветки
+* git branch branch_name – создание ветки
