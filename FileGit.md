@@ -10,3 +10,5 @@
 * git branch branch_name – создание ветки
 * git merge branch_name – слияние веток
 * git branch -d – удаление ветки
+
+## Работа с удалёнными репозиториями
